@@ -1,20 +1,20 @@
-## Week 1 Summary (MM/DD/YYYY)
+## Week 1 Summary (09/08/2025)
 
 ### This week I worked on:
 
-[Your answer here]
+Decide on what I want to focus on for senior thesis.
 
 ### This week I learned:
 
-[Your answer here]
+What all is required for senior thesis.
 
 ### My successes this week were:
 
-[Your answer here]
+Begining to think about what I would like to build.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Determining when in my schedule when I will have substantial time to work on this project.
 
 ---
 
