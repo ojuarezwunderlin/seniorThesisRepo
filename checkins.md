@@ -38,22 +38,22 @@ Not getting as much of a start as I would have liked on the project.
 
 ---
 
-## Week 3 Summary (MM/DD/YYYY)
+## Week 3 Summary (09/22/2025)
 ### This week I worked on:
 
-[Your answer here]
+Getting caught up on the sharing documents with faculty and filling in the details.
 
 ### This week I learned:
 
-[Your answer here]
+Where the github repository was, who to share it with, and where to write down in the markdown check-in file.
 
 ### My successes this week were:
 
-[Your answer here]
+Creating the github repository.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Remembering what I did the previous weeks.
 
 ---
 
