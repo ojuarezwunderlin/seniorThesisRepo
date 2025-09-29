@@ -18,22 +18,23 @@ Determining when in my schedule when I will have substantial time to work on thi
 
 ---
 
-## Week 2 Summary (MM/DD/YYYY)
+## Week 2 Summary (09/15/2025)
 ### This week I worked on:
 
-[Your answer here]
+Came up with an idea for a game I'd like to make. Got it approved by Mahoney and Zak.
 
 ### This week I learned:
 
-[Your answer here]
+About the pitch document for Game Design projects.
 
 ### My successes this week were:
 
-[Your answer here]
+Met with my one of my employers to discuss ways to reduce my hours, so I will have more time to work on other projects.
+Telling Mahoney about how dificult it will be to work on Senior Thesis during my current school.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Not getting as much of a start as I would have liked on the project.
 
 ---
 
