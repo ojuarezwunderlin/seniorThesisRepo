@@ -57,22 +57,22 @@ Remembering what I did the previous weeks.
 
 ---
 
-## Week 4 Summary (MM/DD/YYYY)
+## Week 4 Summary (09/29/2025)
 ### This week I worked on:
 
-[Your answer here]
+starting a game pitch document.
 
 ### This week I learned:
 
-[Your answer here]
+when filling out the document, you begin to really think deep about the project.
 
 ### My successes this week were:
 
-[Your answer here]
+feeling like I'm starting to accomplish something in the project.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Homecoming weekend.
 
 ---
 
