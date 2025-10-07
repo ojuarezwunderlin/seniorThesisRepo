@@ -76,22 +76,25 @@ Homecoming weekend.
 
 ---
 
-## Week 5 Summary (MM/DD/YYYY)
+## Week 5 Summary (10/06/2025)
 ### This week I worked on:
 
-[Your answer here]
+finalizing the 1st draft for the game pitch document.
 
 ### This week I learned:
 
-[Your answer here]
+creating sprite art is going to take a long time.
 
 ### My successes this week were:
 
-[Your answer here]
+completing the 1st draft of the document.
+Writing out some ideas for the game concept.
+Creating two sprites to use as concept art.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+deciding on whether I have enough to call the 1st draft done.
+Utilizing piskel.com to make a visual example of the artstyle concept.
 
 ---
 
