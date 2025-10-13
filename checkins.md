@@ -98,22 +98,25 @@ Utilizing piskel.com to make a visual example of the artstyle concept.
 
 ---
 
-## Week 6 Summary (MM/DD/YYYY)
+## Week 6 Summary (10/13/2025)
 ### This week I worked on:
 
-[Your answer here]
+Planning what to say for the elevator pitch.
+Expanding upon player engagement ideas.
 
 ### This week I learned:
 
-[Your answer here]
+Unity has a built in multiplayer feature called Unity NetCode.
 
 ### My successes this week were:
 
-[Your answer here]
+Discovering Unity NetCode.
+Formalizing my thoughts for the elecvator pitch.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+I had to write a paper for a class, and wanted to have something to show for my internship employer.
+So I had to focus my time on other things, and did not get as much done as I would have liked.
 
 ---
 
