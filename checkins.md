@@ -111,7 +111,7 @@ Unity has a built in multiplayer feature called Unity NetCode.
 ### My successes this week were:
 
 Discovering Unity NetCode.
-Formalizing my thoughts for the elecvator pitch.
+Formalizing my thoughts for the elevator pitch.
 
 ### The challenges I faced this week were:
 
@@ -123,19 +123,19 @@ So I had to focus my time on other things, and did not get as much done as I wou
 ## Week 7 Summary (10/14/2025 - 10/20/2025)
 ### This week I worked on:
 
-[Your answer here]
+Gave more thought to Gameplay Engagments. Prof. Rick Bingen gave feedback.
 
 ### This week I learned:
 
-[Your answer here]
+Game design documents should have information formatted in a way that is easy to read. Even if the same notes are placed in multiple places.
 
 ### My successes this week were:
 
-[Your answer here]
+Preparing the elevator pitch presentation in an organized manor.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Mahoney forgot I was supposed to present, so my elevator pitch presentation was delayed until next week.
 
 ---
 
