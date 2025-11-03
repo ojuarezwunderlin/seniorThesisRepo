@@ -1,4 +1,4 @@
-## Week 1 Summary (09/08/2025)
+## Week 1 Summary (09/02/2025 - 09/08/2025)
 
 ### This week I worked on:
 
@@ -18,7 +18,7 @@ Determining when in my schedule when I will have substantial time to work on thi
 
 ---
 
-## Week 2 Summary (09/15/2025)
+## Week 2 Summary (09/09/2025 - 09/15/2025)
 ### This week I worked on:
 
 Came up with an idea for a game I'd like to make. Got it approved by Mahoney and Zak.
@@ -38,7 +38,7 @@ Not getting as much of a start as I would have liked on the project.
 
 ---
 
-## Week 3 Summary (09/22/2025)
+## Week 3 Summary (09/16/2025 - 09/22/2025)
 ### This week I worked on:
 
 Getting caught up on the sharing documents with faculty and filling in the details.
@@ -57,7 +57,7 @@ Remembering what I did the previous weeks.
 
 ---
 
-## Week 4 Summary (09/29/2025)
+## Week 4 Summary (09/23/2025 - 09/29/2025)
 ### This week I worked on:
 
 starting a game pitch document.
@@ -76,7 +76,7 @@ Homecoming weekend.
 
 ---
 
-## Week 5 Summary (10/06/2025)
+## Week 5 Summary (09/30/2025 - 10/06/2025)
 ### This week I worked on:
 
 finalizing the 1st draft for the game pitch document.
@@ -98,7 +98,7 @@ Utilizing piskel.com to make a visual example of the artstyle concept.
 
 ---
 
-## Week 6 Summary (10/13/2025)
+## Week 6 Summary (10/07/2025 - 10/13/2025)
 ### This week I worked on:
 
 Planning what to say for the elevator pitch.
@@ -120,7 +120,7 @@ So I had to focus my time on other things, and did not get as much done as I wou
 
 ---
 
-## Week 7 Summary (MM/DD/YYYY)
+## Week 7 Summary (10/14/2025 - 10/20/2025)
 ### This week I worked on:
 
 [Your answer here]
@@ -139,7 +139,7 @@ So I had to focus my time on other things, and did not get as much done as I wou
 
 ---
 
-## Week 8 Summary (MM/DD/YYYY)
+## Week 8 Summary (10/21/2025 - 10/27/2025)
 ### This week I worked on:
 
 [Your answer here]
@@ -158,7 +158,7 @@ So I had to focus my time on other things, and did not get as much done as I wou
 
 ---
 
-## Week 9 Summary (MM/DD/YYYY)
+## Week 9 Summary (10/28/2025 - 11/03/2025)
 ### This week I worked on:
 
 [Your answer here]
