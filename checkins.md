@@ -142,19 +142,20 @@ Mahoney forgot I was supposed to present, so my elevator pitch presentation was 
 ## Week 8 Summary (10/21/2025 - 10/27/2025)
 ### This week I worked on:
 
-[Your answer here]
+Made some adjustments to the game design documents, and presented my elevator pitch to the class.
 
 ### This week I learned:
 
-[Your answer here]
+Other students from senior seminar seem very intrigued by my game idea!
 
 ### My successes this week were:
 
-[Your answer here]
+Finally gave my elevator pitch presentation to the class.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Senior Seminar was cancelled, delaying my elevator pitch presentation by another week.
+John Cargile asked if I could play in his recital on Saturday. Much of my free time was spent practicing the music with him.
 
 ---
 
