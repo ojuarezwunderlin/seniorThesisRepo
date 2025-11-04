@@ -162,19 +162,21 @@ John Cargile asked if I could play in his recital on Saturday. Much of my free t
 ## Week 9 Summary (10/28/2025 - 11/03/2025)
 ### This week I worked on:
 
-[Your answer here]
+Creating a new project in Unity.
 
 ### This week I learned:
 
-[Your answer here]
+I need to relearn what to do when starting a project again. 
 
 ### My successes this week were:
 
-[Your answer here]
+Began the actual process of building the project.
+Got caught up on my check-in mark down file.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Remembering what all goes in to starting a new project using the Unity Editor.
+Updating the Unity Editor to utilize the new editions of Unity 6.
 
 ---
 
