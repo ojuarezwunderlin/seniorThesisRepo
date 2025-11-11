@@ -180,22 +180,26 @@ Updating the Unity Editor to utilize the new editions of Unity 6.
 
 ---
 
-## Week 10 Summary (MM/DD/YYYY)
+## Week 10 Summary (11/04/2025 - 11/10/2025)
 ### This week I worked on:
 
-[Your answer here]
+Player Movement System.
+Looked at some games with similar movement for inspiration.
+Uploading some project files to the github repository.
 
 ### This week I learned:
 
-[Your answer here]
+Creating a working movement system is not as easy as copying code from previous projects.
+Lots of aspects need to be reworked in order to properly fit this game.
 
 ### My successes this week were:
 
-[Your answer here]
+Playing games for research purposes is fun.
+Scheduled courses for next semester, and discovered I will have lots of time to work on this project!
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+I had 3 assignments due this past week, so I spent most of my time focusing on writing papers.
 
 ---
 
